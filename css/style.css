@@ -1,0 +1,16 @@
+.pos {
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+	text-align: center;
+	padding: 20px;
+	border-radius: 50%;
+}
+.red {
+	background: #cc3333;
+	color: white;
+}
+.green {
+	background: #33cc33;
+	color: white;
+}
